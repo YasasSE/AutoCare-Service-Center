@@ -1,4 +1,4 @@
-# Vehicle Service Booking System
+# AutoCare-Service-Center Vehicle Service Booking System
 
 A full-stack web application for managing vehicle service bookings.\
 The project is designed as a learning-focused implementation of a modern
